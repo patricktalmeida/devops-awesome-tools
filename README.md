@@ -22,6 +22,9 @@ In this repository you are going to find awsome DevOps open source tools to use 
 
 - [Atlantis](#atlantis)
 
+## Utils
+
+- [Gitignore](#gitignore)
 
 
 # Tools
@@ -80,6 +83,11 @@ Awsome self-hosted golang application that listens for Terraform pull request ev
 
 - Link to Github: [Atlantis][atlantis]
 
+#### Gitignore
+
+Awsome collection of .gitignore templates.
+
+- Link to Github: [Gitignore][gitignore]
 
 
 > :information_source: To contribute submit a pull request!
@@ -93,3 +101,4 @@ Awsome self-hosted golang application that listens for Terraform pull request ev
 [terratest]: https://github.com/gruntwork-io/terratest
 [terragrunt]: https://github.com/gruntwork-io/terragrunt
 [atlantis]: https://github.com/runatlantis/atlantis
+[gitignore]: https://github.com/github/gitignore
