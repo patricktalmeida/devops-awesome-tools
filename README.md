@@ -17,6 +17,7 @@ In this repository you are going to find Awesome DevOps open source tools to use
 - [Terraform Docs](#terraform-docs)
 - [Terratest](#terratest)
 - [Terragrunt](#terragrunt)
+- [Tfswitch](#tfswitch)
 
 ## Automation
 
@@ -25,6 +26,7 @@ In this repository you are going to find Awesome DevOps open source tools to use
 ## Utils
 
 - [Gitignore](#gitignore)
+- [ASDF](#asdf)
 
 
 # Tools
@@ -77,6 +79,12 @@ Awesome thin wrapper for Terraform that provides extra tools for keeping your Te
 
 - Link to Github: [Terragrunt][terragrunt]
 
+#### Tfswitch
+
+Awesome tool to switch between Terraform binary verisons.
+
+- Link to Github: [Tfswitch][tfswitch]
+
 #### Atlantis
 
 Awesome self-hosted golang application that listens for Terraform pull request events via webhooks.
@@ -89,6 +97,12 @@ Awesome collection of .gitignore templates.
 
 - Link to Github: [Gitignore][gitignore]
 
+#### Asdf
+
+Awesome CLI tool that can manage multiple language runtime versions on a per-project basis.
+
+- Link to Github: [ASDF][asdf]
+
 
 > :information_source: To contribute submit a pull request!
 
@@ -100,5 +114,7 @@ Awesome collection of .gitignore templates.
 [terraform-docs]: https://github.com/terraform-docs/terraform-docs
 [terratest]: https://github.com/gruntwork-io/terratest
 [terragrunt]: https://github.com/gruntwork-io/terragrunt
+[tfswitch]: https://github.com/warrensbox/terraform-switcher
 [atlantis]: https://github.com/runatlantis/atlantis
 [gitignore]: https://github.com/github/gitignore
+[asdf]: https://github.com/asdf-vm/asdf
