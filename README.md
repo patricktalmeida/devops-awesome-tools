@@ -1,6 +1,6 @@
-# DevOps Awsome Tools
+# DevOps Awesome Tools
 
-In this repository you are going to find awsome DevOps open source tools to use on your daily tasks and projects. 
+In this repository you are going to find Awesome DevOps open source tools to use on your daily tasks and projects. 
 
 # Index
 
@@ -31,61 +31,61 @@ In this repository you are going to find awsome DevOps open source tools to use 
 
 #### ScoutSuite
 
-Awsome tool to audit security in your cloud provider. Works with the most famous ones, including AWS, GCP, Azure and more.
+Awesome tool to audit security in your cloud provider. Works with the most famous ones, including AWS, GCP, Azure and more.
 
 - Link to Github: [ScoutSuite][scout-suite]
 
 #### Fail2Ban
 
-Awsome reputed tool to ban hosts that cause multiple authentication errors.
+Awesome reputed tool to ban hosts that cause multiple authentication errors.
 
 - Link to Github: [Fail2Ban][fail2ban]
 
 #### Terraform
 
-Awsome and widely known tool to provision and manage your infrastructure mainly accross public cloud.
+Awesome and widely known tool to provision and manage your infrastructure mainly accross public cloud.
 
 - Link to Github: [Terraform][Terraform]
 
 #### Terraformer
     
-Awsome tool to import many parts of your infrastructure into Terraform code. Works with the most famous ones, including AWS, GCP, Azure and more.
+Awesome tool to import many parts of your infrastructure into Terraform code. Works with the most famous ones, including AWS, GCP, Azure and more.
 
 - Link to Github: [Terraformer][terraformer]
 
 #### Terraform Pre-Commit
 
-Awsome tool to run pre-commit checks, lint, format, and much more on your Terraform code.
+Awesome tool to run pre-commit checks, lint, format, and much more on your Terraform code.
 
 - Link to Github: [Terraform Pre-Commit][terraform-pre-commit]
 
 #### Terraform Docs
 
-Awsome tool to generate documentation from Terraform modules in various output formats. Can be used inside [Terraform Pre-Commit](#terraform-pre-commit)
+Awesome tool to generate documentation from Terraform modules in various output formats. Can be used inside [Terraform Pre-Commit](#terraform-pre-commit)
 
 - Link to Github: [Terraform Docs][terraform-docs]
 
 #### Terratest
 
-Awsome tool to write automated tests for your infrastructure code. It provides a variety of helper functions and patterns for common infrastructure testing tasks.
+Awesome tool to write automated tests for your infrastructure code. It provides a variety of helper functions and patterns for common infrastructure testing tasks.
 
 - Link to Github: [Terratest][terratest]
 
 #### Terragrunt
 
-Awsome thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations dry, working with multiple Terraform modules, and managing remote state.
+Awesome thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations dry, working with multiple Terraform modules, and managing remote state.
 
 - Link to Github: [Terragrunt][terragrunt]
 
 #### Atlantis
 
-Awsome self-hosted golang application that listens for Terraform pull request events via webhooks.
+Awesome self-hosted golang application that listens for Terraform pull request events via webhooks.
 
 - Link to Github: [Atlantis][atlantis]
 
 #### Gitignore
 
-Awsome collection of .gitignore templates.
+Awesome collection of .gitignore templates.
 
 - Link to Github: [Gitignore][gitignore]
 
