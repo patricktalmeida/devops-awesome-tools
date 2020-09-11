@@ -27,6 +27,7 @@ In this repository you are going to find Awesome DevOps open source tools to use
 
 - [Gitignore](#gitignore)
 - [ASDF](#asdf)
+- [Jid](#jid)
 
 
 # Tools
@@ -103,6 +104,11 @@ Awesome CLI tool that can manage multiple language runtime versions on a per-pro
 
 - Link to Github: [ASDF][asdf]
 
+#### Jid
+
+Awesome CLI tool to parse json files.
+
+- Link to Githuv: [Jid][jid]
 
 > :information_source: To contribute submit a pull request!
 
@@ -118,3 +124,4 @@ Awesome CLI tool that can manage multiple language runtime versions on a per-pro
 [atlantis]: https://github.com/runatlantis/atlantis
 [gitignore]: https://github.com/github/gitignore
 [asdf]: https://github.com/asdf-vm/asdf
+[jid]: https://github.com/simeji/jid
