@@ -28,6 +28,9 @@ In this repository you are going to find Awesome DevOps open source tools to use
 - [Gitignore](#gitignore)
 - [ASDF](#asdf)
 - [Jid](#jid)
+- [FZF](#fzf)
+- [Oh My ZSH](#oh-my-zsh)
+    - [Oh My ZSH - Plugins](#oh-my-zsh---plugins)
 
 
 # Tools
@@ -108,7 +111,26 @@ Awesome CLI tool that can manage multiple language runtime versions on a per-pro
 
 Awesome CLI tool to parse json files.
 
-- Link to Githuv: [Jid][jid]
+- Link to Github: [Jid][jid]
+
+#### FZF
+
+Awesome general-purpose command-line fuzzy finder.
+
+- Link to Github: [FZF][fzf]
+
+#### Oh My ZSH
+
+Awesome and widely known framework to manage ZSH configuration.
+
+- Link to Github: [Oh My ZSH][oh-my-zsh]
+
+#### Oh My ZSH - Plugins
+
+Awesome plugins to enhance your experience with ZSH.
+
+- Link to Github: [ZSH Autosuggestions][zsh-autosuggestions]
+- Link to Github: [FZF plugin][fzf-oh-my-zsh]
 
 > :information_source: To contribute submit a pull request!
 
@@ -125,3 +147,7 @@ Awesome CLI tool to parse json files.
 [gitignore]: https://github.com/github/gitignore
 [asdf]: https://github.com/asdf-vm/asdf
 [jid]: https://github.com/simeji/jid
+[fzf]: https://github.com/junegunn/fzf
+[oh-my-zsh]: https://github.com/ohmyzsh/ohmyzsh
+[zsh-autosuggestions]: [https://github.com/zsh-users/zsh-autosuggestions]
+[fzf-oh-my-zsh]: https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/fzf/fzf.plugin.zsh
