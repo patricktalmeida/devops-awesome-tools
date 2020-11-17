@@ -23,6 +23,10 @@ In this repository you are going to find Awesome DevOps open source tools to use
 
 - [Atlantis](#atlantis)
 
+## Monitoring
+
+- [Grafana AWS Dashboards](#grafana-aws-dashboards)
+
 ## Utils
 
 - [Gitignore](#gitignore)
@@ -95,6 +99,12 @@ Awesome self-hosted golang application that listens for Terraform pull request e
 
 - Link to Github: [Atlantis][atlantis]
 
+#### Grafana AWS Dashboards
+
+Awesome ready to use on AWS services Grafana dashboards.
+
+- Link to Github: [Grafana AWS Dashboards][grafana-aws-dashboards]
+
 #### Gitignore
 
 Awesome collection of .gitignore templates.
@@ -144,6 +154,7 @@ Awesome plugins to enhance your experience with ZSH.
 [terragrunt]: https://github.com/gruntwork-io/terragrunt
 [tfswitch]: https://github.com/warrensbox/terraform-switcher
 [atlantis]: https://github.com/runatlantis/atlantis
+[grafana-aws-dashboards]: https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards
 [gitignore]: https://github.com/github/gitignore
 [asdf]: https://github.com/asdf-vm/asdf
 [jid]: https://github.com/simeji/jid
